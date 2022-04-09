@@ -2,7 +2,7 @@ spring:
   jpa:
     show-sql: true
     hibernate:
-      ddl-auto: updat
+      ddl-auto: update
 
     driver-class-name: com.mysql.jdbc.Driver
 
