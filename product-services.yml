@@ -6,3 +6,6 @@ spring:
 
     driver-class-name: com.mysql.jdbc.Driver
 
+test:
+  name: test
+
